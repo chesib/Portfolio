@@ -7,13 +7,13 @@ const Cards = () => {
 			<main className="page-content">
 				<div className="card">
 					<div className="content">
-						<h2 className="title">React 1</h2>
+						<h2 className="title">Front end</h2>
 						<p className="copy">
 							successful completion and mastery of foundational
-							concepts in React development.
+							concepts in Front end development.
 						</p>
 						<a
-							href="https://desafiosdev.s3.amazonaws.com/uploads/certification/image/26511/aprobacion-modulos-cursos-b-learning-react-i-g10-14397.png"
+							href="https://desafiosdev.s3.amazonaws.com/uploads/certification/image/28406/certificacion-aprobacion-de-carrera-nuevo-proyecto-final-g10-14397.png"
 							className="btn"
 							target="_blank"
 						>
